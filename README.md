@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GrO0vy's%20GitHub!&fontSize=90&animation=fadeIn&fontAlignY=38&)
 <p align='center'>👋 <b> Welcome to my profile! </b> 👋</p>
-<p align='center'> 💻 Tech Stack 💻</p>
+<p align='center'> 💻 <b>Tech Stack</b> 💻</p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
     <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
