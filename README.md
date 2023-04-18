@@ -26,4 +26,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white&color=orange"/>
 </p>
 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lmc2819@naver.com)](https://solved.ac/lmc2819@naver.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lmc2819)](https://solved.ac/lmc2819/)
