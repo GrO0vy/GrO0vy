@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Mincheol's%21GitHub!&fontSize=90&animation=fadeIn&fontAlignY=38&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Mincheol's%20GitHub!&fontSize=90&animation=fadeIn&fontAlignY=38&)
 <p align='center'> Mincheol's GitHub! </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
