@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GrO0vy's%20GitHub!&fontSize=90&animation=fadeIn&fontAlignY=38&)
+<p align='center'> Welcome to my profile! </p>
 <p align='center'> Tech Stack </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
