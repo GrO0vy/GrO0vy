@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=24&height=300&section=header&text=GrO0vy's%20GitHub!&fontSize=90&animation=fadeIn&fontAlignY=38&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0&height=300&section=header&text=GrO0vy's%20GitHub!&fontSize=90&animation=fadeIn&fontAlignY=38&)
 <p align='center'>👋 <b> Welcome to my profile! </b> 👋</p>
 <br>
 <p align='center'> 💻 <b>Tech Stack</b> 💻</p>
