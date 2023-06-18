@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=GrO0vy's%20GitHub!&fontSize=90&animation=fadeIn&fontAlignY=38&)
-<img align="right" height="125" src="https://github-readme-stats.vercel.app/api?username=GrO0vy&show_icons=true&theme=highcontrast"/>
-
 <p align='center'>👋 <b> Welcome to my profile! </b> 👋</p>
 <br>
 <p align='center'> 💻 <b>Tech Stack</b> 💻</p>
