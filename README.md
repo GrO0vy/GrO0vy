@@ -33,8 +33,10 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrO0vy&layout=compact&theme=demo">
     </td>
     <td>
+      <div align = "center">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alscjf2819"><br>
       <img src = "https://github-readme-stats.vercel.app/api?username=GrO0vy&show_icons=true" style = "width: 75%">
+      </div>  
     </td>
   </tr>
 </table>
