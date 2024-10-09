@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <td>
       <div align = "center">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alscjf2819"><br>
-      <img src = "https://github-readme-stats.vercel.app/api?username=GrO0vy&show_icons=true&theme=compact&count_private=true" style = "width: 75%">
+      <img src = "github-readme-stats-git-master-gro0vys-projects.vercel.app/api?username=GrO0vy&show_icons=true&theme=compact&count_private=true" style = "width: 75%">
       </div>  
     </td>
   </tr>
