@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&color=orange"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white&color=blue"/></a>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black" alt="Javascript Badge">
   <br>
 </p>
 </p>
