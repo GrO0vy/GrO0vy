@@ -15,22 +15,23 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=GrO0vy's%20GitHub!&fontSize=90&animation=fadeIn&fontAlignY=38&)
 <p align='center'>👋 <b> Welcome to my profile! </b> 👋</p>
 <br>
-<div style="display: flex;">
-  <div style="width: 50%;">
-    <p align='center'> 💻 <b>Tech Stack</b> 💻</p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&color=orange"/>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white&color=blue"/>
-      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black" alt="Javascript Badge">
-    </p>  
-  </div>
-
-  <div style="width: 50%;">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alscjf2819"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrO0vy&layout=compact&theme=demo">
-  </div>
-</div>
+<table align = "center" style = "border-color: white;">
+  <tr>
+    <td>
+      <p align='center'> 💻 <b>Tech Stack</b> 💻</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&color=orange"/>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white&color=blue"/>
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black" alt="Javascript Badge">
+      </p>
+    </td>
+    <td>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alscjf2819" style="width: 100%;"><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrO0vy&layout=compact&theme=demo" style="width: 100%;">
+    </td>
+  </tr>
+</table>
 
 
 
