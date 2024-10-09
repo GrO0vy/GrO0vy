@@ -30,7 +30,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black" alt="Javascript Badge">
       </p>
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrO0vy&layout=compact&theme=compact">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrO0vy&layout=compact&theme=compact&count_private=true">
     </td>
     <td>
       <div align = "center">
